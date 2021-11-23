@@ -4,7 +4,7 @@
 //                         //
 // Problem K02: Wyprzedaż  //
 //                         //
-//    Satori status: ANS   //
+//    Satori status: OK    //
 //                         //
 //#########################//
 
