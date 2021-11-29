@@ -4,7 +4,7 @@
 //                         //
 //    Problem K01: Ławka   //
 //                         //
-//    Satori status: RTE   //
+//    Satori status: OK    //
 //                         //
 //#########################//
 
