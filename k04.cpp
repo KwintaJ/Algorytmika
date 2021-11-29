@@ -5,7 +5,7 @@
 //    Problem K04: Elfy    //
 //        i orkowie        //
 //                         //
-//    Satori status: ANS   //
+//    Satori status: OK    //
 //                         //
 //#########################//
 
